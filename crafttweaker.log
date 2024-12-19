@@ -1,0 +1,29 @@
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Loading scripts
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker.zs}
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:2: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:2: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:3: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:4: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:4: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:4: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:7: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:7: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:7: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:8: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:9: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:9: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:12: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:12: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:14: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:14: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:17: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:17: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:19: Could not resolve <null>
+[INITIALIZATION][SERVER][ERROR] crafttweaker.zs:19: Could not resolve <null>
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 339ms
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.woodenGearItem.name with name ct_shaped1415053106
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.woodenGearItem.name with name ct_shaped-695952338
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.ironGearItem.name with name ct_shaped1761552688
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.goldGearItem.name with name ct_shaped992438407
